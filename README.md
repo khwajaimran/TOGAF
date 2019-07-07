@@ -1,1 +1,0 @@
-This is the material needed for understand the concept and then design and code
